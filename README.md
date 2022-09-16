@@ -2,6 +2,7 @@
 <h3 align="center">Un estudiante de Ingenieria en sistemas y autodidacta en el area del desarrollo web</h3>
 
 - 🌱 En estos momentos estoy estudiando **Backend**
+-  **https://my-calculator-davidschneiter.vercel.app/**
 
 - 📫 Contacto **david.schneiter28@gmail.com**
 
