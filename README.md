@@ -3,6 +3,8 @@
 
 - 🌱 En estos momentos estoy estudiando **Backend**
 -  **https://my-calculator-davidschneiter.vercel.app/**
+-  https://todo-app-davidschneiter.vercel.app/
+-  https://pokedex-nextjs-davidschneiter.vercel.app/
 
 - 📫 Contacto **david.schneiter28@gmail.com**
 
