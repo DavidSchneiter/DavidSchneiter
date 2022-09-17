@@ -1,16 +1,23 @@
 <h1 align="center">Hola 👋, Soy David Schneiter</h1>
-<h3 align="center">Un estudiante de Ingenieria en sistemas y autodidacta en el area del desarrollo web</h3>
-
+<h3 align="center">Estudiante de Ingenieria en sistemas y autodidacta en el area del desarrollo web</h3>
+<br>
 - 🌱 En estos momentos estoy estudiando **Backend**
--  **https://my-calculator-davidschneiter.vercel.app/**
--  **https://todo-app-davidschneiter.vercel.app/**
--  **https://pokedex-nextjs-davidschneiter.vercel.app/**
+<br>
+<br>
+<h2 align="center"> Mis Proyectos </h2>
+<br>
 
-- 📫 Contacto **david.schneiter28@gmail.com**
+- **https://my-calculator-davidschneiter.vercel.app/**
+- **https://todo-app-davidschneiter.vercel.app/**
+- **https://pokedex-nextjs-davidschneiter.vercel.app/**
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+<h3 align="left">Contacto:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-schneiter" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/david-schneiter" height="30" width="40" /></a>
+
+📫 Gmail: **david.schneiter28@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
