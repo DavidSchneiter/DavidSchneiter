@@ -10,7 +10,7 @@
 <br>
 
 - **https://my-calculator-davidschneiter.vercel.app/**
-- **https://todo-app-davidschneiter.vercel.app/**
+- **https://todo-app-nu-orpin.vercel.app/**
 - **https://pokedex-nextjs-davidschneiter.vercel.app/**
 
 <br>
