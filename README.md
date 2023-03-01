@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Ingenieria en sistemas y desarrollador Back-end y Front-end</h3>
 <br>
 
-- 🌱 **Backend** es mi fuerte pero tambien tengo conocimientos en **React.js**
+- 🌱 **Backend** en Node.js es la tencologia principal que manejo y con el framework Nest.js, tambien Java con Spring y tambien tengo conocimientos en **React.js**
 
 <br>
 <br>
