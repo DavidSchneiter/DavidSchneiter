@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, Soy David Schneiter</h1>
-<h3 align="center">Estudiante de Ingenieria en sistemas y autodidacta en el area del desarrollo web</h3>
+<h3 align="center">Estudiante de Ingenieria en sistemas y desarrollador Back-end y Front-end</h3>
 <br>
 
-- 🌱 En estos momentos estoy estudiando **Backend**
+- 🌱 **Backend** es mi fuerte pero tambien tengo conocimientos en **React.js**
 
 <br>
 <br>
