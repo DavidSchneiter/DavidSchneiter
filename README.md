@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, Soy David Schneiter</h1>
-<h3 align="center">Estudiante de Ingenieria en sistemas y desarrollador Back-end y Front-end</h3>
+<h3 align="center">Estudiante de Ingenieria en sistemas y desarrollador Full-Stack</h3>
 <br>
 
-- 🌱 Desarrollador Web **Fullstack** en **MERN Stack** como tencologia principal, tambien manejo **Next.js** y BDD SQL como **MySQL** y **PostgreSQL**. Tambien utilizo Docker y Linux.
+- 🌱 Desarrollador Web con **MERN Stack** como tencologia principal, tambien manejo **Next.js** y BDD SQL como **MySQL** y **PostgreSQL**. Tambien utilizo Docker y Linux.
 
 <br>
 <br>
