@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Ingenieria en sistemas y desarrollador Full-Stack</h3>
 <br>
 
-- 🌱 Desarrollador Web con **MERN Stack** como tencologia principal, tambien manejo **Next.js** y BDD SQL como **MySQL** y **PostgreSQL**. Tambien utilizo Docker y Linux.
+- 🌱 Desarrollador Web con **Full Stack** como tencologia principal, tambien manejo **Next.js** y BDD SQL como **MySQL** y **PostgreSQL**. Tambien utilizo Docker y Linux.
 
 <br>
 <br>
